@@ -63,8 +63,3 @@ The notebook includes sections for:
 - FP-Growth association rules
 - classification of movie rating categories
 - model export to `.pkl` files
-
-## Notes
-
-- This repository currently contains a single notebook and the README.
-- To push this project to GitHub, initialize git in this folder and add the remote repository if not already configured.
