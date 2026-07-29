@@ -10,7 +10,6 @@ A Jupyter Notebook project that builds and evaluates multiple movie recommendati
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Notebook Contents](#notebook-contents)
-- [Notes](#notes)
 
 ## Overview
 
